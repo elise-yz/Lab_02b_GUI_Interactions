@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab 02 GUI Interactions</string>
+    <string name="greeting">Enter your name into the textbox!</string>
+    <string name="display_button_text">enter</string>
+    <string name="cycle_textview">Flowers!</string>
+    <string name="greet_user"><big>Hello %1$s!</big></string>
+    <string name="cycle_forward_button">next</string>
+    <string name="cycle_back_button">back</string>
+    <string name="add_button">add</string>
+    <string name="play_music">play music</string>
+    <string name="stop_music">stop music</string>
+    <string-array name="name_list">
+        <item><big>rose</big></item>
+        <item><big>lily</big></item>
+        <item><big>tulip</big></item>
+        <item><big>cornflower</big></item>
+        <item><big>dandelion</big></item>
+        <item><big>sunflower</big></item>
+        <item><big>peony</big></item>
+    </string-array>
+</resources>
